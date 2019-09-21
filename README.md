@@ -7,7 +7,7 @@ If you want your own copy to play around with, the quickest way to get it up
 and running is clicking the Deploy to Netlify button below. It will clone
 this repository into your own account, and deploy the site to Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-functions-example)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-functions-example) [![Greenkeeper badge](https://badges.greenkeeper.io/geoffdutton/netlify-functions-example.svg)](https://greenkeeper.io/)
 
 ## Table of Contents
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand)
